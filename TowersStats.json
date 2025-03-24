@@ -12928,6 +12928,47 @@
             }
         ]
     },
+    
+   "ReddyTD": {
+        "Type": "AOE + Passive",
+        "Image": "rbxassetid://103091236253881",
+        "Rarity": "Apex",
+        "PlacePrice": 11,
+        "Max": 3,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0, 
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 200,
+                "Damage": 8000,
+                "Cooldown": 0.10
+            },
+            {
+                "Price": 10,
+                "Range": 200,
+                "Damage": 99000,
+                "Cooldown": 0.005
+            },
+            {
+                "Price": 280000,
+                "Range": 200,
+                "Damage": 85,
+                "Cooldown": 0.005
+            },
+            {
+                "Price": 90,
+                "Range":200,
+                "Damage": 9000000,
+                "Cooldown": 0.005
+            }
+        ]
+    },
+    
     "Flaming Springtrap": {
         "Type": "Splash Burn + Slow",
         "Image": "rbxassetid://90439626995960",
